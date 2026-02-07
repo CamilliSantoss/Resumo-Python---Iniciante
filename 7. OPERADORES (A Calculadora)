@@ -1,0 +1,34 @@
+# 7. OPERADORES (A Calculadora) 
+# ==============================================================================
+# O computador ama matemática. Usamos símbolos para fazer contas.
+# A maioria você conhece, mas o de multiplicar e dividir são diferentes.
+
+# Operadores aritméticos principais:
+
+# Soma (+)
+resultado = 10 + 5
+print(resultado)  # 15
+
+# Subtração (-)
+resultado = 10 - 5
+print(resultado)  # 5
+
+# Multiplicação (*)
+resultado = 10 * 5
+print(resultado)  # 50
+
+# Divisão (/)
+resultado = 10 / 5
+print(resultado)  # 2.0  (atenção: divisão sempre gera float)
+
+# Divisão inteira (//)
+resultado = 10 // 3
+print(resultado)  # 3  (ignora o resto)
+
+# Resto da divisão (%)
+resultado = 10 % 3
+print(resultado)  # 1
+
+# Potência (**)
+resultado = 2 ** 3
+print(resultado)  # 8 (2 elevado a 3)
