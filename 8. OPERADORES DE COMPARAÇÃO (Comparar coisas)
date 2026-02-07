@@ -1,0 +1,12 @@
+# 8. OPERADORES DE COMPARAÇÃO (Comparar coisas) 
+# ==============================================================================
+# Eles comparam valores e SEMPRE retornam True ou False.
+
+idade = 18
+
+print(idade == 18)  # Igual a
+print(idade != 20)  # Diferente de
+print(idade > 16)   # Maior que
+print(idade < 30)   # Menor que
+print(idade >= 18)  # Maior ou igual
+print(idade <= 21)  # Menor ou igual
