@@ -1,0 +1,23 @@
+# 4. TIPOS DE DADOS (O que vai dentro da caixa?) 
+# ------------------------------------------------------------------------------
+# O computador é meio "quadrado", ele precisa saber que tipo de coisa tem na caixa.
+# Os principais tipos no começo são:
+
+# A) STRING (str) -> TEXTO
+# É qualquer coisa entre aspas "" ou ''. É como um diálogo de livro.
+filme_favorito = "Matrix" 
+letra = "a"
+
+# B) INTEGER (int) -> NÚMERO INTEIRO
+# Números para contar, sem vírgula.
+quantidade_de_gatos = 2
+
+# C) FLOAT (float) -> NÚMERO QUEBRADO (Ponto Flutuante)
+# Números com "vírgula" (no Python usamos PONTO para separar).
+preco_coxinha = 5.50
+altura = 1.75
+
+# D) BOOLEAN (bool) -> VERDADEIRO OU FALSO
+# É como um interruptor de luz: ou está ligado (True) ou desligado (False).
+esta_chovendo = False
+gosta_de_pizza = True
