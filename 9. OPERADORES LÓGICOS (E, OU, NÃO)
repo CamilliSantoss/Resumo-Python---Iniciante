@@ -1,0 +1,13 @@
+# 9. OPERADORES LÓGICOS (E, OU, NÃO)
+# ==============================================================================
+# Usados para juntar condições.
+
+# AND -> e (tudo precisa ser verdadeiro)
+print(idade >= 18 and idade < 65)
+
+# OR -> ou (basta um ser verdadeiro)
+print(idade < 18 or idade > 60)
+
+# NOT -> não (inverte o valor)
+esta_logado = True
+print(not esta_logado)  # False
