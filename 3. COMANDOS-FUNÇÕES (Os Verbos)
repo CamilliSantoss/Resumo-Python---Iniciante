@@ -1,0 +1,14 @@
+# 3. COMANDOS / FUNÇÕES (Os Verbos) 
+# ------------------------------------------------------------------------------
+# Se a variável é a "coisa", a função é a "ação".
+# Geralmente elas têm um nome seguido de parênteses ().
+
+# O comando mais famoso: print()
+# Ele serve para "imprimir" (mostrar) algo na tela para o usuário ver.
+print("Isso vai aparecer na tela preta do terminal!")
+print(idade) # Aqui ele vai na caixinha 'idade', vê o que tem dentro e mostra (25).
+
+# O comando de entrada: input()
+# Ele faz o programa PAUSAR e esperar o usuário digitar algo.
+nome_digitado = input("Digite seu nome: ")
+print("O nome é", nome_digitado)
