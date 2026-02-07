@@ -1,0 +1,13 @@
+# 2. VARIÁVEIS (As Caixinhas) 
+# ------------------------------------------------------------------------------
+# Imagine que a memória do computador é um galpão gigante vazio.
+# Para guardar informações lá dentro, usamos "Variáveis".
+#
+# Pense na variável como uma CAIXINHA organizadora:
+# 1. Você pega uma caixa.
+# 2. Cola uma etiqueta nela com um nome (ex: "nome_do_usuario").
+# 3. Guarda algo dentro dela (ex: "Fulano").
+
+# Criando variáveis no Python:
+mensagem = "Olá, mundo!"  # Criei uma caixa chamada 'mensagem' e guardei um texto.
+idade = 25                # Criei uma caixa chamada 'idade' e guardei um número.
