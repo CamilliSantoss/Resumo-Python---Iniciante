@@ -1,0 +1,13 @@
+# 10. CONVERSÃO DE TIPOS (Transformando dados) 
+# ==============================================================================
+# Às vezes o dado vem como texto, mas você precisa usar como número.
+
+idade_texto = input("Digite sua idade: ")
+idade_numero = int(idade_texto)
+
+print("Ano que vem você terá:", idade_numero + 1)
+
+# Conversões mais comuns:
+# int()   -> texto para número inteiro
+# float() -> texto para número quebrado
+# str()   -> transforma número em texto
