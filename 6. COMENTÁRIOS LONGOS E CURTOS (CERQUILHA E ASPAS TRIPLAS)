@@ -1,0 +1,18 @@
+# 6. COMENTÁRIOS LONGOS E CURTOS (CERQUILHA E ASPAS TRIPLAS) 
+# ==============================================================================
+# Usar o símbolo de cerquilha (#) é ótimo para frases curtas (uma linha).
+# Mas e se você quiser escrever um parágrafo inteiro ou uma explicação longa?
+# Ficar colocando # em toda linha cansa, né?
+#
+# Para isso, usamos as TRÊS ASPAS (simples ''' ou duplas """).
+# Tudo que estiver entre elas, o Python finge que não viu.
+
+'''
+Aqui dentro eu posso escrever livremente.
+Posso pular linhas...
+Posso fazer uma lista de compras...
+Posso escrever uma carta de amor...
+
+O computador só vai voltar a ler código quando eu fechar as aspas,
+exatamente como fiz na linha abaixo.
+'''
