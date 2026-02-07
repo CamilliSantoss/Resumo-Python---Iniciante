@@ -1,0 +1,12 @@
+# 1. O QUE É UM ALGORITMO? 
+# ------------------------------------------------------------------------------
+# Imagine uma receita de bolo ou o passo a passo para trocar um pneu.
+# Um algoritmo é exatamente isso: uma sequência de instruções lógicas 
+# que você dá para o computador resolver um problema.
+#
+# Exemplo de algoritmo da vida real (Escovar os dentes):
+# 1. Pegar a escova.
+# 2. Colocar pasta.
+# 3. Esfregar nos dentes.
+# 4. Enxaguar.
+# (Se você inverter a ordem e enxaguar antes de colocar a pasta, dá erro!)
