@@ -1,0 +1,6 @@
+# 5. SINTAXE (A Gramática) 
+# ------------------------------------------------------------------------------
+# Toda língua tem regras. No Português, frase começa com maiúscula e termina com ponto.
+# No Python, a regra principal é a INDENTAÇÃO (espaços no começo da linha) e
+# escrever os comandos exatamente como eles são (print não é Print).
+# Se você esquecer um parêntese, o computador não vai entender (dá erro de sintaxe).
